@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/The Pursuit of Happiness/Code/School Stuff/CST8234/Assignment1/Assign1Main.c
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+string.h
+-
+helper.c
+/cygdrive/e/The Pursuit of Happiness/Code/School Stuff/CST8234/Assignment1/helper.c
+
+/cygdrive/e/The Pursuit of Happiness/Code/School Stuff/CST8234/Assignment1/helper.c
+helper.h
+/cygdrive/e/The Pursuit of Happiness/Code/School Stuff/CST8234/Assignment1/helper.h
+
+/cygdrive/e/The Pursuit of Happiness/Code/School Stuff/CST8234/Assignment1/helper.h
+stdio.h
+-
+

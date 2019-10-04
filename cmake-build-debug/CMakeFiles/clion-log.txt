@@ -1,0 +1,4 @@
+C:\Users\omor0\.CLion2019.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/e/The Pursuit of Happiness/Code/School Stuff/CST8234/Assignment1"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/e/The Pursuit of Happiness/Code/School Stuff/CST8234/Assignment1/cmake-build-debug
